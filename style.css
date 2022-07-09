@@ -1,0 +1,106 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+
+.font-write {
+    text-align: center;
+    font-size: larger;
+    color: white;
+    padding: 10% 30%;
+}
+
+
+.linkcolor {
+
+    background-color: rgb(255, 141, 71);
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+.bkimg {
+    background-image: url(image/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    size: 60px;
+}
+
+.sec-font {
+
+    text-align: center;
+    font-size: larger;
+    color: black;
+    padding: 10% 30%;
+}
+
+.big {
+    size: 70px;
+}
+
+.babypink {
+    color: rgb(156, 129, 96);
+}
+
+.takabox {
+
+    text-align: center;
+    width: 80%;
+    margin: 0% auto;
+}
+
+.third {
+    text-align: center;
+
+}
+
+.first-container {
+    text-align: center;
+    width: 80%;
+    margin: 0% auto;
+    background-color: rgb(255, 141, 71);
+    text-decoration: none;
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+}
+
+
+
+.update {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.gmail {
+    background-color: brown;
+    padding: 5px 20px;
+}
+
+.fontbold {
+    font-size: larger;
+}
+
+.light {
+    color: royalblue;
+    size: 5px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px 0;
+}
+
+footer h1 {
+    font-family: "Audiowide", sans-serif;
+    color: red;
+}
